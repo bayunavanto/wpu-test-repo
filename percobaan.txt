@@ -1,1 +1,1 @@
-baris pertama pada file percobaan.txt
+membuat file percobaan.txt
